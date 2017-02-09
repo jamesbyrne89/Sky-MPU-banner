@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Resets */
+
+* {
+	border: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+/* Styles */
+html {
+	background: #222;
+}
+
+.banner {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin:auto;
+	background: #fff;
+}
